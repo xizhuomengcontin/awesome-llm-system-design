@@ -74,6 +74,7 @@ you keep it honest in production: **build it, serve it, ground it, compose it,
 watch it.**
 
 ### Building and adapting the model
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — record & replay AI coding-agent runs offline.
 *Where the model comes from: data, pretraining, adaptation, and post-training.*
 
 | # | Topic | What it teaches |
